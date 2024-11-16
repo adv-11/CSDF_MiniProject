@@ -1,0 +1,10 @@
+
+[2024-11-08 11:55:04,621] adv123 - Login failed: Incorrect password (password=13579)
+[2024-11-08 11:55:04,621] AdminUser - Login successful
+[2024-11-08 11:55:04,622] User456 - Access denied: Unauthorized IP address (192.168.1.100)
+[2024-11-08 11:55:04,622] User789 - File access: /sensitive-data/file.txt
+[2024-11-08 11:55:04,622] Hacker1 - Port scan detected: Target IP (10.0.0.5)
+[2024-11-08 11:55:04,622] AdminUser - Account locked: Multiple failed login attempts
+[2024-11-08 11:55:04,622] adv123 - Password change: Successful (new_password=abc123)
+[2024-11-08 11:55:04,622] User456 - Logout
+

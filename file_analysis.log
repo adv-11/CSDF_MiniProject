@@ -1,0 +1,35 @@
+ERROR:root:'abc.txt' is not available in the target directory.
+ERROR:root:'log.py' is not available in the target directory.
+ERROR:root:'abc.txt' is not available in the target directory.
+ERROR:root:'abc.txt' is not available in the target directory.
+ERROR:root:'abc.txt' is not available in the target directory.
+ERROR:root:'abc.txt' is not available in the target directory.
+ERROR:root:'adv.txt' is not available in the target directory.
+ERROR:root:'CyberForensics.py' is not available in the target directory.
+ERROR:root:'DataEncryptionAnalysis.py' is not available in the target directory.
+ERROR:root:'FileAnalysis.py' is not available in the target directory.
+ERROR:root:'adv.txt' is not available in the target directory.
+ERROR:root:'LogAnalysis.py' is not available in the target directory.
+ERROR:root:Directory 'C:\Users\admin\Desktop\CSDF MiniA3' not found or is not a valid directory.
+ERROR:root:Directory 'C:\Users\admin\Desktop\CSDF MiniA3' not found or is not a valid directory.
+ERROR:root:Directory 'C:\Users\admin\Desktop\CSDF MiniA3' not found or is not a valid directory.
+ERROR:root:Directory 'C:\Users\admin\Desktop\CSDF MiniA3' not found or is not a valid directory.
+ERROR:root:Directory 'C:\Users\admin\Desktop\CSDF MiniA3' not found or is not a valid directory.
+ERROR:root:Directory 'C:\Users\admin\Desktop\CSDF MiniA3' not found or is not a valid directory.
+ERROR:root:Directory 'C:\Users\admin\Desktop\CSDF MiniA3' not found or is not a valid directory.
+ERROR:root:Integrity check failed for sample.log. Expected 5935c571a5a6896dbdc8d3b9f79338f8, got 4afd8aa7de0528a87fc9290b5e87f353
+ERROR:root:Directory 'C:\Users\admin\Desktop\CSDF MiniA3' not found or is not a valid directory.
+ERROR:root:Integrity check failed for sample.log. Expected 5935c571a5a6896dbdc8d3b9f79338f8, got 4afd8aa7de0528a87fc9290b5e87f353
+ERROR:root:Integrity check failed for sample.log. Expected 5935c571a5a6896dbdc8d3b9f79338f8, got 4afd8aa7de0528a87fc9290b5e87f353
+ERROR:root:Integrity check failed for sample.log. Expected 5935c571a5a6896dbdc8d3b9f79338f8, got 4afd8aa7de0528a87fc9290b5e87f353
+ERROR:root:Integrity check failed for sample.log. Expected 5935c571a5a6896dbdc8d3b9f79338f8, got 4afd8aa7de0528a87fc9290b5e87f353
+ERROR:root:Integrity check failed for sample.log. Expected 5935c571a5a6896dbdc8d3b9f79338f8, got 4afd8aa7de0528a87fc9290b5e87f353
+ERROR:root:Integrity check failed for sample.log. Expected 5935c571a5a6896dbdc8d3b9f79338f8, got 4afd8aa7de0528a87fc9290b5e87f353
+ERROR:root:Integrity check failed for sample.log. Expected 5935c571a5a6896dbdc8d3b9f79338f8, got 4afd8aa7de0528a87fc9290b5e87f353
+ERROR:root:Integrity check failed for sample.log. Expected 4afd8aa7de0528a87fc9290b5e87f353, got 34d3f48911827d53b41c7a8c017881bb
+ERROR:root:Directory 'C:\Users\Advait Shinde\CSDF_MiniProject\pages\file_analysis.py' not found or is not a valid directory.
+ERROR:root:Integrity check failed for sample.log. Expected 5935c571a5a6896dbdc8d3b9f79338f8, got 34d3f48911827d53b41c7a8c017881bb
+ERROR:root:Integrity check failed for sample.log. Expected 5935c571a5a6896dbdc8d3b9f79338f8, got 91723c0205d66f4f8e9d346433594337
+ERROR:root:Directory 'C:\Users\Advait Shinde\CSDF_MiniProject\abcd.txt' not found or is not a valid directory.
+ERROR:root:Directory 'C:\Users\Advait Shinde\CSDF_MiniProject\abcd.txt' not found or is not a valid directory.
+ERROR:root:Integrity check failed for sample.log. Expected 1, got 91723c0205d66f4f8e9d346433594337
